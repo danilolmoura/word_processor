@@ -21,7 +21,7 @@ This is a command-line interface (CLI) for a simple word processor implemented i
 3. **Run the CLI:**
    Start the CLI with the following command:
    ```bash
-   mix run lib/word_processor_cli.ex
+   iex -S mix
    ```
    This initializes the GenServer and presents a menu for interacting with the word processor.
 
