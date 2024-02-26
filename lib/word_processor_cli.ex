@@ -109,3 +109,6 @@ defmodule WordProcessorCLI do
     end
   end
 end
+
+
+WordProcessorCLI.start()
